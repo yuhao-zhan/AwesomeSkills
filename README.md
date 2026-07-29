@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This repository documents useful, reusable ways of thinking and working. Each skill is a practical playbook with clear principles, actionable steps, and quality checks.
+**Every skill in this repository is an original summary distilled from my own hands-on practice, reflection, and iteration—not copied from other repositories or prompt collections.** Each one captures a reusable way of thinking or working, with practical steps and quality checks.
 
 ## Skills
 
